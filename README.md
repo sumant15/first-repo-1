@@ -1,4 +1,4 @@
 # first-repo
 Just a basic repository to play around with <br>
 Sumant Chaganti - Hardwork is key for success
-Computer Science ..
+Computer Science .
